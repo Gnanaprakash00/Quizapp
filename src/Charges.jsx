@@ -54,7 +54,7 @@ const Charges = () => {
                 </div>
                 <div className="container d-flex justify-content-around card-footer">
                   <p className="btn btn-success">score :<span className=''>{score}</span></p>
-                  <p className="btn btn-danger" onClick={restart}>restart</p>
+                  <p className="btn btn-danger" onClick={restart}>Play Agin</p>
                  </div>
             </div>
           </div>

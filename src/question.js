@@ -1,6 +1,6 @@
 export default [{
         question: "what is your name ?",
-        options: ["sunil", "raj", "hema", "prakash"],
+        options: ["kumar", "raj", "hema", "prakash"],
         answer: 1,
     },
     {
